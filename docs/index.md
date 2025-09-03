@@ -82,7 +82,8 @@ We may update this policy from time to time. Updates will be posted in the App a
 
 ## Contact Us
 If you have questions about this policy or your data in the App, contact us at:
-- Email: theunpaintedhoard@gmail.com
+- Email: [your-contact-email@example.com]
 
-
+—
+This document describes our app’s behavior but is not legal advice. Consider having this policy reviewed by counsel and host it at a stable public URL for Play Console.
 

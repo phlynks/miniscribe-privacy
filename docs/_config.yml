@@ -1,0 +1,10 @@
+title: MiniScribe Privacy Policy
+# Optional: pick a simple theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+# If publishing as a project site under https://<user>.github.io/<repo>/, set baseurl to "/<repo>"
+# Update this after you know the repo name; GitHub Pages handles it even if omitted for a simple index page.
+# baseurl: "/miniscribe-privacy"
+
